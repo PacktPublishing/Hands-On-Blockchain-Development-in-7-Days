@@ -1,0 +1,12 @@
+:local(.styles) {
+  .app-bar {
+    min-height: 75px;
+  }
+
+  @media (max-width: 1300px) {
+  	h1 {
+  		display: none;
+  	}
+  }
+
+}
