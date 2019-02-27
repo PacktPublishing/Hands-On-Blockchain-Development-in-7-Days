@@ -19,10 +19,24 @@ contract TestGaming {
         Assert.equal(expected, result, "The player should have won by guessing the mystery number was higher than their number");
     }
 
+    function testPlayerWonGuessLower() public {
+        bool expected = true;
+        bool result = gaming.determineWinner(5, 6, false);
+
+        Assert.equal(expected, result, "The player should have won by guessing the mystery number was lower than their number");
+    }
+
     function testPlayerLostGuessLower() public {
         bool expected = false;
         bool result = gaming.determineWinner(5, 4, false);
 
         Assert.equal(expected, result, "The player should have lost by guessing the mystery number was lower than their number");
+    }
+
+    function testPlayerLostGuessHigher() public {
+        bool expected = false;
+        bool result = gaming.determineWinner(5, 6, true);
+
+        Assert.equal(expected, result, "The player should have lost by guessing the mystery number was higher than their number");
     }
 }
