@@ -54,7 +54,7 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781838640101_ColorImages.pdf).
 
-###Installation
+# Installation
 1. Install node.js (version 10.15.0)
 
 1. Install webpack globally
