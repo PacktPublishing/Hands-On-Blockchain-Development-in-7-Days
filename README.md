@@ -10,13 +10,13 @@ This is the code repository for [Hands-On Blockchain Development in 7 days](http
 Blockchain is a revolutionary technology that is currently been used in a variety of industrial applications, such as finance, healthcare, data analytics, and much more. This book will teach you the key blockchain principles and methodologies that are required to build decentralized applications in just 7 days.
 
 This book covers the following exciting features:
-Work with blockchain networks to create interactive applications 
-Learn how to create and use variables in smart contracts 
-Use automated tests to eliminate mistakes and errors in the code 
-Interact with the Ethereum network from a user interface 
-Build a user interface for smart contracts using React 
-Send and receive funds in smart contracts using wallets 
-Deploy blockchain applications on AWS 
+* Work with blockchain networks to create interactive applications 
+* Learn how to create and use variables in smart contracts 
+* Use automated tests to eliminate mistakes and errors in the code 
+* Interact with the Ethereum network from a user interface 
+* Build a user interface for smart contracts using React 
+* Send and receive funds in smart contracts using wallets 
+* Deploy blockchain applications on AWS 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1-838-64010-X) today!
 
