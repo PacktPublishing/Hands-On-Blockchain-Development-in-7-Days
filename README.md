@@ -54,6 +54,7 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781838640101_ColorImages.pdf).
 
+###Installation
 1. Install node.js (version 10.15.0)
 
 1. Install webpack globally
@@ -103,7 +104,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products
 * Learning Blockchain Application Development [Video] [[Packt]](https://www.packtpub.com/application-development/learning-blockchain-application-development-video?utm_source=github&utm_medium=repository&utm_campaign=9781789345728 ) [[Amazon]](https://www.amazon.com/dp/1-789-34572-3)
 
-*  [[Packt]](https://www.packtpub.com/application-development/blockchain-application-development-7-days-video?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1-789-34194-9)
+* Blockchain Application Development in 7 Days [Video] [[Packt]](https://www.packtpub.com/application-development/blockchain-application-development-7-days-video?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1-789-34194-9)
 
 ## Get to Know the Author
 **Will Button**
