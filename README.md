@@ -1,8 +1,8 @@
-# Hands-On Blockchain Development in 7 days
+# Hands-On Blockchain Development in 7 Days
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-blockchain-development-7-days?utm_source=github&utm_medium=repository&utm_campaign=9781838640101 "><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B14101_1.png" alt="Hands-On Blockchain Development in 7 days" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-blockchain-development-7-days?utm_source=github&utm_medium=repository&utm_campaign=9781838640101 "><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B14101_1.png" alt="Hands-On Blockchain Development in 7 Days" height="256px" align="right"></a>
 
-This is the code repository for [Hands-On Blockchain Development in 7 days](https://www.packtpub.com/big-data-and-business-intelligence/hands-blockchain-development-7-days?utm_source=github&utm_medium=repository&utm_campaign=9781838640101 ), published by Packt.
+This is the code repository for [Hands-On Blockchain Development in 7 Days](https://www.packtpub.com/big-data-and-business-intelligence/hands-blockchain-development-7-days?utm_source=github&utm_medium=repository&utm_campaign=9781838640101 ), published by Packt.
 
 **Create a decentralized gaming application using Ethereum**
 
